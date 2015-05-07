@@ -1,0 +1,17 @@
+{
+    "contents" : "print(\"hello\")",
+    "created" : 1430997829163.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1076139093",
+    "id" : "144C12A6",
+    "lastKnownWriteTime" : 1430997845,
+    "path" : "C:/Users/Peter-Jack/Desktop/StatEpidio/test12/1stfile.R",
+    "project_path" : "1stfile.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
